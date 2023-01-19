@@ -1,7 +1,7 @@
 # EDA-with-AutoEDA-libraries
 ---------------------------------------------------------------------------------
 
-<b> <font color = red>Implemented & Analysed working,functionalities & Insights of different available Auto EDA libraries </b>
+<b> Implemented & Analysed working,functionalities & Insights of different available Auto EDA libraries </b>
 
 ---------------------------------------------------------------------------------
 
