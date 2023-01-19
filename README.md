@@ -1,6 +1,8 @@
 # EDA-with-AutoEDA-libraries
 
-
+```
+Repo Links:
+```
 1. DataPrep Library = https://github.com/shivpalSW/EDA-with-AutoEDA-libraries/tree/main/AutoEDA_DataPrep
 
 2. D-tale Library = https://github.com/shivpalSW/EDA-with-AutoEDA-libraries/tree/main/AutoEDA_Dtale_Library
