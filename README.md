@@ -9,7 +9,7 @@
 Repo Links:
 ```
 
-1. Pandas Profiling Library = https://github.com/shivpalSW/AutoEDA-Pandas-ProfilIng-EDA-Library
+1. Pandas Profiling Library = https://github.com/shivpalSW/EDA-with-AutoEDA-libraries/tree/main/AutoEDA_Pandas%20Profilng
 
 2. Autoviz Library= https://github.com/shivpalSW/EDA-with-AutoEDA-libraries/tree/main/AutoEDA_Autoviz
 
